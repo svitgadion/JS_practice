@@ -10,8 +10,3 @@ console.log(age);
 
 const username = "Mango";
 console.log(username);
-
-const productName = "Droid";
-const pricePerItem = 2000;
-
-
